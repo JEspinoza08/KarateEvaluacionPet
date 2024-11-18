@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Eulices",
+    "job": "Student"
+  },{
+  "name": "Pedro",
+  "job": "Cantante"
+},{
+  "name": "Monica",
+  "job": "Mariachi"
+},{
+  "name": "Jose",
+  "job": "QA"
+},{
+  "name": "Manuel",
+  "job": "Tester"
+}
+]
